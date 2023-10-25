@@ -2,7 +2,7 @@
 # **OCaml Exercises**
 
 <p align="center">
-    <img src="https://github.com/gabsalvo/Ocaml/assets/72619479/cd6031e2-ff99-4257-a653-9324b73e4360" width="200">
+    <img src="https://github.com/gabsalvo/Ocaml/assets/72619479/fbb88de0-4d79-4108-953f-0bd78935e95a" width="200">
 </p>
 
 ---
