@@ -1,2 +1,8 @@
-# 99-Ocaml-Problems
-Every exercise has a difficulty level, ranging from beginner to advanced. This difficulty level is indicated with the symbol "☡". The absence of marks represents the beginner level, one mark the intermediate level and two marks the advanced level. 
+<!-- markdownlint-disable MD032 MD033-->
+# **OCaml Exercises**
+
+<p align="center">
+    <img src="https://github.com/gabsalvo/Ocaml/assets/72619479/cd6031e2-ff99-4257-a653-9324b73e4360" width="200">
+</p>
+
+---
